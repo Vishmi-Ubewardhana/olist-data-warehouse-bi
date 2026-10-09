@@ -1,0 +1,6 @@
+*.csv
+*.zip
+OlistData/
+*.bak
+*.mdf
+*.ldf
